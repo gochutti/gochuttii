@@ -20,6 +20,7 @@ function App() {
 
       <h2>Contact</h2>
       <p>Email: gochutti@gmail.com</p>
+      <p>Phone no: 9650386565</p>
     </div>
   );
 }
