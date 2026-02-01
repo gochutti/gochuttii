@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gochutti-dev-2ae01-authRole",
+      "UnauthRoleArn": "arn:aws:iam::382598792754:role/amplify-gochutti-dev-2ae01-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::382598792754:role/amplify-gochutti-dev-2ae01-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-gochutti-dev-2ae01-deployment",
+      "UnauthRoleName": "amplify-gochutti-dev-2ae01-unauthRole",
+      "StackName": "amplify-gochutti-dev-2ae01",
+      "StackId": "arn:aws:cloudformation:ap-south-1:382598792754:stack/amplify-gochutti-dev-2ae01/b1b364e0-fe78-11f0-889f-0ae6f2cef58d",
+      "AmplifyAppId": "d10kqxodlmvzqt"
+    },
+    "categories": {
+      "auth": {
+        "gochuttia98bc04d": {}
+      }
+    }
+  }
+}

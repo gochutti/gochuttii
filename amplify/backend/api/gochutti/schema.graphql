@@ -1,0 +1,16 @@
+type HolidayPackage @model @auth(rules: [{ allow: private }]) {
+  id: ID!
+  title: String!
+  location: String!
+  price: Float!
+  durationDays: Int
+  description: String
+  imageUrl: String
+}
+
+type Booking @model @auth(rules: [{ allow: private }]) {
+  id: ID!
+  userEmail: String!
+  packageID: ID!
+  bookingDate: AWSDateTime
+}
